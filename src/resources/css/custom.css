@@ -1,0 +1,25 @@
+body {
+    background-color: #282c34;
+}
+
+h1, h2 {
+    color: #FFF;
+}
+
+.sector {
+    margin-top: 20px;
+    margin-right: 20px;
+}
+
+.btn {
+    margin-left: 10px;
+}
+
+.table {
+    margin-top: 20px;
+}
+
+.gender-buttons {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
